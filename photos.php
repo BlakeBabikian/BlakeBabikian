@@ -95,35 +95,35 @@
 
     <div class="w3-row-padding photo-grid">
         <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo1.jpg" alt="" style="width:100%">
+            <img src="images/photos/photo1.JPG" alt="" style="width:100%">
         </div>
         <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo2.jpg" alt="" style="width:100%">
+            <img src="images/photos/photo2.JPG" alt="" style="width:100%">
         </div>
         <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo3.jpg" alt="" style="width:100%">
-        </div>
-    </div>
-    <div class="w3-row-padding photo-grid">
-        <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo4.jpg" alt="" style="width:100%">
-        </div>
-        <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo5.jpg" alt="" style="width:100%">
-        </div>
-        <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo6.jpg" alt="" style="width:100%">
+            <img src="images/photos/photo3.JPG" alt="" style="width:100%">
         </div>
     </div>
     <div class="w3-row-padding photo-grid">
         <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo7.jpg" alt="" style="width:100%">
+            <img src="images/photos/photo4.JPG" alt="" style="width:100%">
         </div>
         <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo8.jpg" alt="" style="width:100%">
+            <img src="images/photos/photo5.JPG" alt="" style="width:100%">
         </div>
         <div class="w3-third w3-padding-16">
-            <img src="images/photos/photo9.jpg" alt="" style="width:100%">
+            <img src="images/photos/photo6.JPG" alt="" style="width:100%">
+        </div>
+    </div>
+    <div class="w3-row-padding photo-grid">
+        <div class="w3-third w3-padding-16">
+            <img src="images/photos/photo7.JPG" alt="" style="width:100%">
+        </div>
+        <div class="w3-third w3-padding-16">
+            <img src="images/photos/photo8.JPG" alt="" style="width:100%">
+        </div>
+        <div class="w3-third w3-padding-16">
+            <img src="images/photos/photo9.JPG" alt="" style="width:100%">
         </div>
     </div>
 
