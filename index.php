@@ -90,15 +90,16 @@
             <p>
                 <a href="files/Resume.pdf" target="_blank">Resume</a> ·
                 <a href="https://www.linkedin.com/in/blake-babikian-730961207" target="_blank">LinkedIn</a> ·
+                <a href="https://github.com/BlakeBabikian/" target="_blank">GitHub</a>
                 <a href="https://boxd.it/gVzpJ" target="_blank">Letterboxd</a>
             </p>
         </div>
     </div>
     <div id="PersonalProject"></div>
     <div class="w3-padding-32 w3-center">
+        <hr>
         <h3>Selected Projects</h3>
         <p style="font-size:18px;">Systems I've designed, built, and deployed across iOS, web, and infrastructure.</p>
-        <hr>
     </div>
     <!-- The Oak Company -->
     <div class="w3-row-padding w3-padding-16 w3-center">
