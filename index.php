@@ -90,7 +90,7 @@
             <p>
                 <a href="files/Resume.pdf" target="_blank">Resume</a> ·
                 <a href="https://www.linkedin.com/in/blake-babikian-730961207" target="_blank">LinkedIn</a> ·
-                <a href="https://github.com/BlakeBabikian/" target="_blank">GitHub</a>
+                <a href="https://github.com/BlakeBabikian/" target="_blank">GitHub</a> ·
                 <a href="https://boxd.it/gVzpJ" target="_blank">Letterboxd</a>
             </p>
         </div>
