@@ -45,7 +45,6 @@
        class="w3-bar-item w3-button">Close Menu</a>
     <a href="#PersonalProject" onclick="w3_close()" class="w3-bar-item w3-button">Projects</a>
     <a href="photos.php" onclick="w3_close()" class="w3-bar-item w3-button">Photos</a>
-    <a href="files/Resume.pdf" onclick="w3_close()" class="w3-bar-item w3-button" target="_blank">Resume</a>
     <a href="mailto:BlakeBabikian@gmail.com" onclick="w3_close()" class="w3-bar-item w3-button">Contact</a>
 </nav>
 
@@ -88,7 +87,6 @@
         </div>
         <div class="w3-center">
             <p>
-                <a href="files/Resume.pdf" target="_blank">Resume</a> ·
                 <a href="https://www.linkedin.com/in/blake-babikian-730961207" target="_blank">LinkedIn</a> ·
                 <a href="https://github.com/BlakeBabikian/" target="_blank">GitHub</a> ·
                 <a href="https://boxd.it/gVzpJ" target="_blank">Letterboxd</a>
